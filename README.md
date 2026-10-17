@@ -1,4 +1,4 @@
-# Rocketry
+# Modelling Rockets
 
 A centralized repository showcasing 3D modeled rockets, staging mechanisms, and structural components built for experimental rocketry and payload deployment.
 
@@ -14,8 +14,8 @@ The primary goal of this project is to gain knowledge on the mechanical architec
 
 Moving from theoretical physics and sketches to fully realized 3D models allows for physical prototyping
 
-- **Aerospace Exploration:** Serving as a hands-on playground to test concepts for rocket-deployed systems, modular airframes, and payload deployment.
-- **Just for Fun:** Transforming raw CAD geometry into physical, flight-ready hardware using high-precision additive manufacturing.
+- Aerospace Exploration: I want to once be in this field so exploring it now is really just a win win.
+- Just for Fun: Modelling rockets is really fun from a scetch to the Cad is just so fun.
 
 
 ## Tools & Software
