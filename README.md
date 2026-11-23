@@ -22,7 +22,8 @@ Moving from theoretical physics and sketches to fully realized 3D models allows 
 
 | Item | Quantity | Total Price | Link | Description |
 |:---|:---|:---|:---|:---|
-| 3D Printing Filament | 1 | 33.99 | https://eu.store.bambulab.com/de/products/asa-aero | For Printing |
+| 3D Printing Filament | 1 | 33.99 $| https://eu.store.bambulab.com/de/products/asa-aero | For Printing |
+| Total | 33.99 $ ||||
 
 
 ## Tools & Software
