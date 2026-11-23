@@ -17,6 +17,13 @@ Moving from theoretical physics and sketches to fully realized 3D models allows 
 - Aerospace Exploration: I want to once be in this field so exploring it now is really just a win win.
 - Just for Fun: Modelling rockets is really fun from a scetch to the Cad is just so fun.
 
+## Bom
+
+
+| Item | Quantity | Total Price | Link | Description |
+|:---|:---|:---|:---|:---|
+| 3D Printing Filament | 1 | 33.99 | https://eu.store.bambulab.com/de/products/asa-aero | For Printing |
+
 
 ## Tools & Software
 
